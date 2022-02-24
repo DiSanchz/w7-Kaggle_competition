@@ -1,0 +1,11 @@
+#esto nos lo ha pasado Sonia, es como un 101 de cosas a ignorar
+
+**/.DS_Store
+**/*.ipynb_checkpoints/
+**/__pycache__
+
+#aquí le digo que ignore todo lo que hay en la carpeta "ignoredstuff"
+
+**/ignoredstuff/
+**/chromedriver.exe
+
