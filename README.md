@@ -19,7 +19,7 @@ More detailed information on the process can be found in each indevidual noteboo
 
 - [Numpy](https://numpy.org/)
 - [Pandas](https://pandas.pydata.org/)
-- [SciKit Learn](https://www.selenium.dev/)
+- [SciKit Learn](https://scikit-learn.org/stable/)
 - [H2O](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html)
 
 
